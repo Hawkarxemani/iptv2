@@ -88,9 +88,3 @@ http://stream.shabakaty.com:6001/enter/ch5/ch5_720.m3u8
 http://stream.shabakaty.com:6001/enter/ch24/ch24_720.m3u8
 #EXTINF:-1,ANIMAL PLANET
 GET http://stream.shabakaty.com:6001/enter/ch6/ch6_720.m3u8
-#EXTINF:-1,AL Hadath
-#EXTINF:-1,AL Hadath
-#EXTINF:-1,AL Hadath
-#EXTINF:-1,AL Hadath
-#EXTINF:-1,AL Hadath
-#EXTINF:-1,AL Hadath
