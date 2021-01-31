@@ -1,0 +1,95 @@
+#EXTINF:-1,AL Hadath 1
+https://tinyurl.com/y22dzuv4
+#EXTINF:-1,AL Hadath
+https://live.alarabiya.net/alarabiapublish/alhadath.smil/alarabiapublish/alhadath_360p/chunks.m3u8
+#EXTINF:-1,SKY NEWS ARABIA
+https://stream.skynewsarabia.com/hls/sna_720.m3u8
+#EXTINF:-1,Gali Kurdistan
+http://51.75.66.91:8080/gksat.mp4
+#EXTINF:-1,Rudaw
+https://svs.itworkscdn.net/rudawlive/rudawlive.smil/rudawtv_360p_chunks.m3u8
+#EXTINF:-1,K24
+https://tinyurl.com/yyxuog9k
+#EXTINF:-1,NRT HD
+https://tinyurl.com/y5xe3m5j
+#EXTINF:-1,NRT 2 HD
+#EXTINF:-1,NET TV HD
+https://tinyurl.com/y4st4an2
+#EXTINF:-1,KURDMAX HD
+https://tinyurl.com/y4s9qyn9
+#EXTINF:-1,KURDMAX SHOW HD
+https://tinyurl.com/y2a8e24s
+#EXTINF:-1,KIRKUK TV
+https://tinyurl.com/y3qzz6hc
+#EXTINF:-1,KURDMAX MUZIK HD
+https://tinyurl.com/yyo96kjl
+#EXTINF:-1,PAYAM HD
+https://tinyurl.com/y2uowrls
+#EXTINF:-1,MBC IRAQ HD
+http://stream.shabakaty.com:6001/enter/ch18/ch18_720.m3u8
+#EXTINF:-1,AL JAZEERA HD
+https://tinyurl.com/tnfkx7g
+#EXTINF:-1,ABC NEWS
+https://tinyurl.com/yyt32jyd
+#EXTINF:-1,IRAQIYA NEWS HD
+https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/imn/news2/chunks.m3u8
+#EXTINF:-1,AL SHARQIYA HD
+http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
+#EXTINF:-1,AL SHARQIYA NEWS HD
+http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
+#EXTINF:-1,DIJLA HD
+https://ghaasiflu.online/Dijlah/tracks-v1a1/mono.m3u8
+#EXTINF:-1,AL HURRA IRAQ
+https://mbningestworld-i.akamaihd.net/hls/live/644021/iraqworldsafe/master.m3u8
+#EXTINF:-1,AL FALOJA
+https://player-api.new.livestream.com/accounts/4671269/events/4213685/live.m3u8
+#EXTINF:-1,BEIN SPORT 3
+http://stream.shabakaty.com:6001/sport/ch3/ch3_1080.m3u8
+#EXTINF:-1,BEIN SPORT 1
+http://stream.shabakaty.com:6001/sport/ch1/ch1_1080.m3u8
+#EXTINF:-1,BEIN SPORT 2
+http://stream.shabakaty.com:6001/sport/ch2/ch2_1080.m3u8
+#EXTINF:-1,BEIN SPORT 4
+http://stream.shabakaty.com:6001/sport/ch4/ch4_1080.m3u8
+#EXTINF:-1,BEIN SPORT 5
+http://stream.shabakaty.com:6001/sport/ch5/ch5_720.m3u8
+#EXTINF:-1,BEIN SPORT 6
+http://stream.shabakaty.com:6001/sport/ch6/ch6_720.m3u8
+#EXTINF:-1,BeinMovies HD 1
+http://stream.shabakaty.com:6001/movies/ch1/ch1_720.m3u8
+#EXTINF:-1,BeinMovies HD 2
+http://stream.shabakaty.com:6001/movies/ch2/ch2_720.m3u8
+#EXTINF:-1,BeinMovies HD 3
+http://stream.shabakaty.com:6001/movies/ch3/ch3_720.m3u8
+#EXTINF:-1,BeinMovies HD 4
+http://stream.shabakaty.com:6001/movies/ch4/ch4_720.m3u8
+#EXTINF:-1,Fox Movies HD
+http://stream.shabakaty.com:6001/movies/ch6/ch6_720.m3u8
+#EXTINF:-1,FOX HD
+http://stream.shabakaty.com:6001/movies/ch9/ch9_720.m3u8
+#EXTINF:-1,OSN Movies
+http://stream.shabakaty.com:6001/movies/ch13/ch13_720.m3u8
+#EXTINF:-1,OSN Movies Action
+http://stream.shabakaty.com:6001/movies/ch14/ch14_720.m3u8
+#EXTINF:-1,BARAAM KIDS
+http://stream.shabakaty.com:6001/enter/ch5/ch5_360.m3u8
+#EXTINF:-1,CN KIDS
+http://stream.shabakaty.com:6001/kids/ch4/ch4_720.m3u8
+#EXTINF:-1,DREAM WORK
+http://stream.shabakaty.com:6001/kids/ch5/ch5_720.m3u8
+#EXTINF:-1,Nickelodeon
+http://stream.shabakaty.com:6001/kids/ch10/ch10_720.m3u8
+#EXTINF:-1,NAT GEO HD
+https://tinyurl.com/snn5gs3
+#EXTINF:-1,NAT GEO WILD HD
+http://stream.shabakaty.com:6001/enter/ch5/ch5_720.m3u8
+#EXTINF:-1,Discovery Science HD
+http://stream.shabakaty.com:6001/enter/ch24/ch24_720.m3u8
+#EXTINF:-1,ANIMAL PLANET
+GET http://stream.shabakaty.com:6001/enter/ch6/ch6_720.m3u8
+#EXTINF:-1,AL Hadath
+#EXTINF:-1,AL Hadath
+#EXTINF:-1,AL Hadath
+#EXTINF:-1,AL Hadath
+#EXTINF:-1,AL Hadath
+#EXTINF:-1,AL Hadath
